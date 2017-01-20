@@ -1,0 +1,54 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+
+# Executables
+
+*.exe
+
+*.out
+
+*.app
+
+*.html
+*.js
+*.html
+*.png
+*.log
+*.txt
+*.nupkg
+*.targets
+*.xml
+*.config
+*.pdb
+*.filters
+*.vcxproj
+*.sln
+*.suo
+README.md
+LICENSE.md
+*.db
+*.opendb
+Bound/Debug/
+Bound/packages/
